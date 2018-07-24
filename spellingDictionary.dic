@@ -1,0 +1,12 @@
+beego
+bindata
+nsq
+nsqd
+pprof
+protobuf
+sigs
+tmpl
+gjson
+go-bindata
+httpbin
+logrus
