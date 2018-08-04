@@ -10,3 +10,7 @@ gjson
 go-bindata
 httpbin
 logrus
+GOROOT
+gorm
+gorequest
+pholcus
